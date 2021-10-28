@@ -4,7 +4,8 @@ A web and mobile developer also interested in design
 <a target="_blank" href="https://www.linkedin.com/in/biancafsilva"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <a target="_blank" href="mailto:biancaflorianodasilva@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a target="_blank" href="https://www.behance.net/biancafsilva"> <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white"/> </a> 
-<!-- <a target="_blank" href="https://www.instagram.com/_bianca.zip"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
+<!-- <a href="https://discord.com/@me"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<a target="_blank" href="https://www.instagram.com/_bianca.zip"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
 
 
 
