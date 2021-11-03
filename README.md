@@ -7,14 +7,14 @@ A web and mobile developer also interested in design
 <!-- <a href="https://discord.com/@me"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 <a target="_blank" href="https://www.instagram.com/_bianca.zip"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
 
+<!--
 <p align="center"> 
   <h4 align="center">Visitors count</h4>
 </p>
 <p align = "center">
   <img src="https://profile-counter.glitch.me/BiancaFSilva/count.svg" />
 </p>
-
-
+-->
 
 
 
