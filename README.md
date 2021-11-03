@@ -10,6 +10,8 @@ A web and mobile developer also interested in design
 Visitor count ![Visitor Count](https://profile-counter.glitch.me/BiancaFSilva/count.svg)
 -->
 
+![Snake animation](https://github.com/BiancaFSilva/BiancaFSilva/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **BiancaFSilva/BiancaFSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
