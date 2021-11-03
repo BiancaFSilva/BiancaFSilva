@@ -5,18 +5,10 @@ A web and mobile developer also interested in design
 <a target="_blank" href="mailto:biancaflorianodasilva@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a target="_blank" href="https://www.behance.net/biancafsilva"> <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white"/> </a> 
 <!-- <a href="https://discord.com/@me"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<a target="_blank" href="https://www.instagram.com/_bianca.zip"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
+<a target="_blank" href="https://www.instagram.com/_bianca.zip"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
 
-<!--
-<p align="center"> 
-  <h4 align="center">Visitors count</h4>
-</p>
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/BiancaFSilva/count.svg" />
-</p>
+Visitor count ![Visitor Count](https://profile-counter.glitch.me/BiancaFSilva/count.svg)
 -->
-
-
 
 <!--
 **BiancaFSilva/BiancaFSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
