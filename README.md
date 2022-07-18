@@ -1,15 +1,17 @@
-### Hello, I'm Bianca Silva ✌🏽
-A web and mobile developer also interested in design
+<div class="row">
+    <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&layout=compact&theme=github_dark">
+    <h3> Hello, I'm Bianca Silva ✌🏽 </h3>
+    <p> A web and mobile developer also interested in design </p>
+    <p>
+        <a target="_blank" href="https://www.linkedin.com/in/biancafsilva"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+        <a target="_blank" href="mailto:biancaflorianodasilva@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+    </p>
+</div>
 
-<a target="_blank" href="https://www.linkedin.com/in/biancafsilva"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-<a target="_blank" href="mailto:biancaflorianodasilva@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <!--
 <a target="_blank" href="https://www.behance.net/biancafsilva"> <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white"/> </a> 
-
 <img src="https://github-readme-stats.vercel.app/api?username=BiancaFSilva&show_icons=true&theme=github_dark"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&layout=compact&theme=github_dark"></img>
-
 ![Snake animation](https://github.com/BiancaFSilva/BiancaFSilva/blob/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
