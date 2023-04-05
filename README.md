@@ -1,5 +1,5 @@
 <div class="row">
-    <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&hide_progress=true&theme=dracula">
+    <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&hide_progress=true&theme=github_dark">
     <h3> Hello, I'm Bianca Silva ✌🏽 </h3>
     <p> A web and mobile developer also interested in design </p>
     <p>
