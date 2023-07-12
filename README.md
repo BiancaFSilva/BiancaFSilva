@@ -1,7 +1,7 @@
 <div class="row">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&hide_progress=true&hide=css&theme=github_dark" alt="Bianca's Most Used Languages" />
     <h3> Hello, I'm Bianca Silva </h3>
-    <p> An IT Technician and Systems Analysis & Development student based in São Paulo / Brazil currently seeking my first job </p>
+    <p> An IT Technician and Systems Analysis & Development student based in São Paulo, Brazil, currently looking for my first job or an internship </p>
     <p>
         <a target="_blank" href="https://www.linkedin.com/in/biancafsilva"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bianca's LinkedIn"/> </a> 
         <a target="_blank" href="mailto:biancaflorianodasilva@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Bianca's Gmail"/> </a>
