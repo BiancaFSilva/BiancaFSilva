@@ -24,8 +24,7 @@
                     ZBRA Solutions • São Paulo, Brazil <br>
                     sep/2023 - moment                  
                 </li>
-                <li><img align="right" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-                    <b> Freelancer Typist </b><br>                    
+                <li><b> Freelancer Typist </b><br>                    
                     CRIA Project, by Tecnologia Única • Home Office <br>
                     jan/2022 - jul/2022                    
                 </li>
