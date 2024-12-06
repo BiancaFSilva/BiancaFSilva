@@ -1,15 +1,15 @@
 <div class="row">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFSilva&hide_progress=true&hide=css&theme=github_dark" alt="Bianca's Most Used Languages" />
     <h3> Hello, I'm Bianca Silva </h3>
-    <p> An IT Technician and Systems Analysis & Development student based in São Paulo, Brazil, currently engaged in her academic and professional development </p>    
+    <p> An IT Technician, <b>QA</b> and Developer based in São Paulo, Brazil, currently engaged in her academic and professional development </p>    
     <details>
         <summary> Resume </summary>     
         <h4> Education </h4>
         <div>
             <ul>
-                <li><b> Systems Analysis & Development </b><br>                    
+                <li><b> Technologist in Systems Analysis & Development </b><br>                    
                     Faculty of Technology of São Caetano do Sul - Antonio Russo <br>
-                    feb/2022 - moment 
+                    feb/2022 - dec/2024
                 </li>
                 <li><b> Technician in Informatics for Internet </b><br>                    
                     Etec of Ribeirão Pires, Brazil <br>
@@ -20,9 +20,10 @@
         <h4> Experience </h4>
         <div>
             <ul>
-                <li><b> QA Internship </b><br>                    
+                <li><b> QA </b><br>                    
                     ZBRA Solutions • São Paulo, Brazil <br>
-                    sep/2023 - moment                  
+                    jan/2025 - moment <br>
+                    <small style="color: gray;"> &#11049; QA Internship: sep/2023 - dec/2024 </small>      
                 </li>
                 <li><b> Freelancer Typist </b><br>                    
                     CRIA Project, by Tecnologia Única • Home Office <br>
